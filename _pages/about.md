@@ -11,6 +11,8 @@ This is a link to my [day job](https://www.rsdiv.com)
 ## This drill is at the **QCRA** zone.  
 ![drill](../assets/images/drill.jpg)
 
+<img src="../assets/images/my-image.jpg" alt="Drill Smaller" width="50%">
+
 ---
 
 1. learn mark down
