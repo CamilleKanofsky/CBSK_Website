@@ -5,11 +5,11 @@ title: "About"
 
 This is my portfolio of my work in PreFab and my current projects
 
-#H1
+# 
 This is a link to my [day job](https://www.rsdiv.com)  
 
-## H2 This drill is at the **QCRA** zone.  
-![drill](/assets/images/drill.jpg)
+## This drill is at the **QCRA** zone.  
+![drill](../assets/images/drill.jpg)
 
 ---
 
