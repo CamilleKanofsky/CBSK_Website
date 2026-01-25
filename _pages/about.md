@@ -4,18 +4,18 @@ title: "About"
 ---
 
 This is my portfolio of my work in PreFab and my current projects
-**this is bold?**
-two underscores __work as well__
-one star to make it  *italic*
-or one underscore _works too_
-but to  ~~strikethrough~~
-sub scriptt? H~2~0
-super script x * x^2^
-hmm, ==highlight==
-# heating 1
-## heading 2
-### heading 3
-> bock quote
->> and indent
->>> and more
+
+# 
+This is a link to my [day job](https://www.rsdiv.com)  
+
+## This drill is at the **QCRA** zone.  
+![drill](../assets/images/drill.jpg)
+
+<img src="../assets/images/my-image.jpg" alt="Drill Smaller" width="50%">
+
+---
+
+1. learn mark down
+2. work on using and deploying the git page 
+3. finish the fusion 360 tutorial by kevin kennedy
 
